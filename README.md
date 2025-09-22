@@ -8,6 +8,7 @@ A simple command-line calculator built in Python. This project allows you to per
 
 ---
 
+
 ## 🚀 Features
 
 - ✅ Addition (`add` or `+`)
@@ -22,6 +23,10 @@ A simple command-line calculator built in Python. This project allows you to per
 
 ---
 
+
+## 📸 Screenshot
+<img width="722" height="657" alt="demo" src="https://github.com/user-attachments/assets/dd298e8c-32e0-4e65-8409-f67620a087cb" />
+
 ## 🖥️ How to Use
 
 ### 1. Clone the repository:
@@ -29,4 +34,7 @@ A simple command-line calculator built in Python. This project allows you to per
 ```bash
 git clone https://github.com/yourusername/cli-calculator.git
 cd cli-calculator
+
+python calculator.py
+
 
